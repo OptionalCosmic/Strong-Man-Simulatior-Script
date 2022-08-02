@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet("https://pastebin.com/raw/CkyR8ePz", tru
 local w = library:CreateWindow('Strongman Simulator')
 local Workout_Mul = 1
 -- GUI SECTION
-w:Section('Created by HamstaGang, unpatched by OREZAKung')
+w:Section('Created by MegaLotteryTicket#7277')
  
 -- GUI Toggles
 local FarmHydra = w:Toggle('Farm Hydra', {flag = "FarmHydra"})
